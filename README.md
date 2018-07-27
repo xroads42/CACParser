@@ -16,4 +16,4 @@ usage:
 TODO:
 result (e.g. v1 CAC BR BIS Landssieger) is currently just a string. could be separated in Note|Place|entitelments|titels|show-result
 
-
+tested with ubuntu 18.04, pdftotext version 0.62.0(poppler), GNU Awk 4.1.4, API: 1.1
