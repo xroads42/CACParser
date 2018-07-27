@@ -3,10 +3,10 @@ awk script for generating csv file from dwzrv show results.
 
 
 requirements:
-poppler-utils ( apt-get install poppler-utils )  
+- poppler-utils ( apt-get install poppler-utils )  
 or
-xpdf tools from https://www.xpdfreader.com/download.html
-gawk
+- xpdf tools from https://www.xpdfreader.com/download.html
+- gawk
 
 usage:
 1. download Show result from dwzrv
