@@ -10,7 +10,7 @@ or
 
 usage:
 1. download Show result from dwzrv
-2. convert pdf with: pdftotext -raw -enc UFT-8 filename.pdf
+2. convert pdf with: pdftotext -raw -enc UTF-8 filename.pdf
 3. gawk  -f CACParser.awk -v title="Tournament Name" filename.txt>out_filename.csv
 
 TODO:
